@@ -15,10 +15,11 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
       
-      - name: Setup Swift
-        uses: swift-actions/setup-swift@v2
-        with:
-          swift-version: '6.2'
+      - name: Setup Swift via Homebrew
+        run: |
+          brew update
+          brew install swift
+          swift --version
       
       - name: Get tag name
         id: tag
@@ -82,7 +83,6 @@ jobs:
             ### Installation
             
             **macOS (Universal - Intel & Apple Silicon)**
-            
             ```bash
             # For iwx
             curl -L -O https://github.com/${{ github.repository }}/releases/download/${{ steps.tag.outputs.TAG_NAME }}/iwx-${{ steps.tag.outputs.TAG_NAME }}-macos-universal.tar.gz
