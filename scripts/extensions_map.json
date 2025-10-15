@@ -1,0 +1,86 @@
+{
+  "TSCH_ChartArchive": [
+    "TSCH_CachedDataFormatterPersistableStyleObjects.Extensions.cached_data_formatter_persistable_style_objects",
+    "TSCH_ChartGarlicLabelFormatUpgrade.Extensions.garlic_label_format_upgrade",
+    "TSCH_ChartGarlicMinMaxUpgrade.Extensions.garlic_min_max_upgrade",
+    "TSCH_ChartMultiDataIndexUpgrade.Extensions.upgraded_to_ui_state",
+    "TSCH_ChartPasteboardAdditionsArchive.Extensions.custom_format_list_for_pasteboard",
+    "TSCH_ChartPasteboardAdditionsArchive.Extensions.preset_index_for_pasteboard",
+    "TSCH_ChartPasteboardAdditionsArchive.Extensions.preset_uuid_for_pasteboard",
+    "TSCH_ChartPreserveAppearanceForPresetArchive.Extensions.appearance_preserved_for_preset",
+    "TSCH_ChartSupportsProportionalBendedCalloutLinesArchive.Extensions.supports_proportional_bended_callout_lines",
+    "TSCH_ChartSupportsRoundedCornersArchive.Extensions.deprecated_supports_rounded_corners",
+    "TSCH_ChartSupportsRoundedCornersArchive.Extensions.supports_rounded_corners",
+    "TSCH_ChartSupportsSeriesPropertySpacingArchive.Extensions.supports_series_error_bar_spacing",
+    "TSCH_ChartSupportsSeriesPropertySpacingArchive.Extensions.supports_series_value_label_spacing",
+    "TSCH_ChartSupportsStackedSummaryLabelsArchive.Extensions.supports_stacked_summary_labels"
+  ],
+  "TSCH_ChartAxisNonStyleArchive": [
+    "TSCH_Generated_ChartAxisNonStyleArchive.Extensions.current"
+  ],
+  "TSCH_ChartAxisStyleArchive": [
+    "TSCH_Generated_ChartAxisStyleArchive.Extensions.current"
+  ],
+  "TSCH_ChartDrawableArchive": [
+    "TSCH_ChartArchive.Extensions.unity"
+  ],
+  "TSCH_ChartNonStyleArchive": [
+    "TSCH_Generated_ChartNonStyleArchive.Extensions.current"
+  ],
+  "TSCH_ChartSeriesNonStyleArchive": [
+    "TSCH_Generated_ChartSeriesNonStyleArchive.Extensions.current"
+  ],
+  "TSCH_ChartSeriesStyleArchive": [
+    "TSCH_Generated_ChartSeriesStyleArchive.Extensions.current"
+  ],
+  "TSCH_ChartStyleArchive": [
+    "TSCH_Generated_ChartStyleArchive.Extensions.current"
+  ],
+  "TSCH_ChartUIState": [
+    "TSCH_ChartUIStateMultiDataIndexUpgrade.Extensions.upgraded_from_model"
+  ],
+  "TSCH_LegendNonStyleArchive": [
+    "TSCH_Generated_LegendNonStyleArchive.Extensions.current"
+  ],
+  "TSCH_LegendStyleArchive": [
+    "TSCH_Generated_LegendStyleArchive.Extensions.current"
+  ],
+  "TSCH_ReferenceLineNonStyleArchive": [
+    "TSCH_Generated_ReferenceLineNonStyleArchive.Extensions.current"
+  ],
+  "TSCH_ReferenceLineStyleArchive": [
+    "TSCH_Generated_ReferenceLineStyleArchive.Extensions.current"
+  ],
+  "TSCK_ActivityNavigationInfoArchive": [
+    "TSCK_CommentActivityNavigationInfoArchive.Extensions.comment_activity_navigation_info"
+  ],
+  "TSCK_CollaboratorCursorArchive": [
+    "TSA_CollaboratorGalleryItemCursor.Extensions.gallery_item_cursor",
+    "TSCH_CollaboratorCDECursorSubselectionArchive.Extensions.cde_cursor_subselection",
+    "TSCH_CollaboratorChartTitleCursorSubselectionArchive.Extensions.chart_title_cursor_subselection",
+    "TST_CollaboratorTableCursorSubselectionArchive.Extensions.table_cursor_subselection",
+    "TSWP_CollaboratorTextCursorSubselectionArchive.Extensions.text_cursor_subselection"
+  ],
+  "TSD_GroupArchive": [
+    "TSD_FreehandDrawingArchive.Extensions.freehand_drawing_archive"
+  ],
+  "TSD_ImageArchive": [
+    "TSA_GalleryInfo.Extensions.gallery_info",
+    "TSA_WebVideoInfo.Extensions.web_video_info",
+    "TSWP_EquationInfoArchive.Extensions.equation_depth",
+    "TSWP_EquationInfoArchive.Extensions.equation_source_old",
+    "TSWP_EquationInfoArchive.Extensions.equation_source_text",
+    "TSWP_EquationInfoArchive.Extensions.equation_text_properties"
+  ],
+  "TSD_MovieArchive": [
+    "KN_LiveVideoInfo.Extensions.live_video_info",
+    "TSA_Object3DInfo.Extensions.object_3D_info"
+  ],
+  "TSK_FormatStructArchive": [
+    "TSCH_ChartFormatStructExtensions.Extensions.prefix",
+    "TSCH_ChartFormatStructExtensions.Extensions.suffix"
+  ],
+  "TSP_DataAttributes": [
+    "TSD_ImageDataAttributes.Extensions.image_data_attributes"
+  ]
+}
